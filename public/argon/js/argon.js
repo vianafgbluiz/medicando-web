@@ -951,21 +951,22 @@ var OrdersChart = (function() {
 							var content = '';
 
 							if (data.datasets.length > 1) {
-								content += '<span class="popover-body-label mr-auto">' + label + '</span>';
+								content += '<span class="popover-body-label mr-auto">Dia:' + label + '</span>';
 							}
 
-							content += '<span class="popover-body-value">' + yLabel + '</span>';
-							
+							content += '<span class="popover-body-value">R$ ' + yLabel + '</span>';
+
 							return content;
 						}
 					}
 				}
 			},
 			data: {
-				labels: ['Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+				labels: ['Dia 01', 'Dia 02', 'Dia 03', 'Dia 04', 'Dia 05', 'Dia 06', 'Dia 07', 'Dia 08',
+                         'Dia 09', 'Dia 10', 'Dia 11', 'Dia 12', 'Dia 13', 'Dia 14', 'Dia 15'],
 				datasets: [{
 					label: 'Sales',
-					data: [25, 20, 30, 22, 17, 29]
+					data: [112.25 , 341.57, 88.15, 101.37, 257.15, 431.12, 136.85, 220.71]
 				}]
 			}
 		});

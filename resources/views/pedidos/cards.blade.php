@@ -8,8 +8,8 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="card-title text-uppercase text-muted mb-0">R$ Bruto Mensal</h5>
-                                    <span class="h2 font-weight-bold mb-0">R$ 1689,17</span>
+                                    <h5 class="card-title text-uppercase text-muted mb-0">Aguardando</h5>
+                                    <span class="h2 font-weight-bold mb-0">6</span>
                                 </div>
                                 <div class="col-auto">
                                     <div class="icon icon-shape bg-success text-white rounded-circle shadow">
@@ -25,8 +25,8 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="card-title text-uppercase text-muted mb-0">Nº Pedidos Mensal</h5>
-                                    <span class="h2 font-weight-bold mb-0">107</span>
+                                    <h5 class="card-title text-uppercase text-muted mb-0">Aprovados</h5>
+                                    <span class="h2 font-weight-bold mb-0">13</span>
                                 </div>
                                 <div class="col-auto">
                                     <div class="icon icon-shape bg-warning text-white rounded-circle shadow">
@@ -42,8 +42,8 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="card-title text-uppercase text-muted mb-0">R$ Médio por Pedido</h5>
-                                    <span class="h2 font-weight-bold mb-0">R$ 15,78</span>
+                                    <h5 class="card-title text-uppercase text-muted mb-0">Em Transporte</h5>
+                                    <span class="h2 font-weight-bold mb-0">8</span>
                                 </div>
                                 <div class="col-auto">
                                     <div class="icon icon-shape bg-info text-white rounded-circle shadow">
@@ -59,8 +59,8 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <h5 class="card-title text-uppercase text-muted mb-0">Nº Clientes Únicos</h5>
-                                    <span class="h2 font-weight-bold mb-0">82</span>
+                                    <h5 class="card-title text-uppercase text-muted mb-0">Entregues</h5>
+                                    <span class="h2 font-weight-bold mb-0">107</span>
                                 </div>
                                 <div class="col-auto">
                                     <div class="icon icon-shape bg-yellow text-white rounded-circle shadow">
